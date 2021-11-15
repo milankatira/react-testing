@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header = (props) => {
+const Header = () => {
   return (
     <div data-test="headerComponent">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
